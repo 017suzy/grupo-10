@@ -1,0 +1,7 @@
+nome: Suzianny Alexandra Teixeira Santos
+idade: 18 anos
+sexo: feminino
+curso: Engenharia Elétrica
+ramo: WolfBYTE Games (programação)
+
+- eu gosto de desenhar, jogar jogos e costurar :-)
